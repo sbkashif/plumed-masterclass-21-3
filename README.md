@@ -1,1 +1,1 @@
-# masterclass-21-3
+# plumed-masterclass-21-3
